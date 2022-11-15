@@ -22,7 +22,7 @@ MAGNITUDES EN EL SI
 
 Las magnitudes tienen sus respectivas derivadas usando notación científica respectivamente 
 
-[![magnitdudes-SI.jpg](https://i.postimg.cc/WzZYrrh3/magnitdudes-SI.jpg)](https://postimg.cc/MfWYJn02)
+[![1.gif](https://i.postimg.cc/cLn2Ypth/1.gif)](https://postimg.cc/bZqmfFTS)
 
 [![mapa-conceptual-del-tomo-3.jpg](https://i.postimg.cc/JhRxnvNG/mapa-conceptual-del-tomo-3.jpg)](https://postimg.cc/87nMXynS)
 
